@@ -26,7 +26,9 @@ Practiced Blue-Green Deployment on AWS to understand how to release a new applic
 - Reviewed the rollback process to return to the previous version.
 
 ## Project Documentation
-[View Blue-Green Deployment Project PDF](Blue-Green-Deployment-AWS.pdf)
+
+[View Blue-Green Deployment Project PDF](https://github.com/dipali-devops95/blue-green--deployment/blob/main/blue%20green%20deployment%20project.pdf)
+
 
 ## Learning Outcome
 Learned the fundamentals of Blue-Green Deployment, traffic switching, and rollback using AWS infrastructure.
