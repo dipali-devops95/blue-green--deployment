@@ -1,5 +1,3 @@
-# blue-green--deployment
-Blue-Green Deployment Project using KodeKloud
 # Blue-Green Deployment on AWS
 
 **Project Platform:** KodeKloud
