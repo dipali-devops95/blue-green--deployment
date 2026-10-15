@@ -3,8 +3,7 @@
 **Project Platform:** KodeKloud
 
 ## Project Overview
-Practiced Blue-Green Deployment on AWS to understand how to release a new application version with reduced downtime and deployment risk.
-
+Hands-on practice in AWS infrastructure configuration and Blue-Green Deployment using EC2 instances, Application Load Balancer, and target groups.
 ## Tools and Technologies
 - Amazon VPC
 - Public Subnets
